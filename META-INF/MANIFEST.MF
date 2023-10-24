@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: userdept
+Bundle-SymbolicName: user
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-19
+Automatic-Module-Name: userdept
+Export-Package: com.devsuperior.userdept,
+ com.devsuperior.userdept.controllers,
+ com.devsuperior.userdept.entities,
+ com.devsuperior.userdept.repositories
